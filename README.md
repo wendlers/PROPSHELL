@@ -13,7 +13,7 @@ Usage
 -----
 
 PROPSHELL is written in SPIN. Thus, a spin compiler is needed. If unsure how to get the toolchain,
-have a look [here|http://gpio.kaltpost.de/?page_id=1378].
+have a look [here](http://gpio.kaltpost.de/?page_id=1378).
 
 To demonstrate the usage, three examples are provided:
 
